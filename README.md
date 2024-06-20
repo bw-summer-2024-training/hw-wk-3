@@ -8,8 +8,8 @@
 
 -   [ ] [***"What Are the Biggest Equity Problems in State Education Finance Systems?"***](https://bellwether.org/wp-content/uploads/2021/10/Bellwether_SplittingBill_04-BiggestProblems_Final.pdf)
         
--   [ ] [***"Fortifying Funding"***](https://bellwether.org/publications/fortifying-funding/](https://bellwether.org/wp-content/uploads/2023/02/FortifyingFunding_Bellwether_February2023.pdf)
-
+-   [ ]  [***"Fortifying Funding"***](https://bellwether.org/wp-content/uploads/2023/02/FortifyingFunding_Bellwether_February2023.pdf)
+        
 ## Coding task
 
 Draft a short memo using the `state_funding_analysis.qmd` file in this repo. The file has a template set up that will require you to write a paragraph to respond to each of the following prompts:
