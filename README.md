@@ -7,7 +7,7 @@
 -   [ ] [***"How Are State Education Funding Formulas Structured?"***](https://bellwether.org/wp-content/uploads/2021/10/Bellwether_SplittingBill_03-HowStateFundStruc_Final.pdf)
 
 -   [ ] [***"What Are the Biggest Equity Problems in State Education Finance Systems?"***](https://bellwether.org/wp-content/uploads/2021/10/Bellwether_SplittingBill_04-BiggestProblems_Final.pdf)
--   [ ] [***"[What Are the Biggest Equity Problems in State Education Finance Systems?***]([https://bellwether.org/publications/fortifying-funding/)
+-   [ ] [***"Fortifying Funding"***]([https://bellwether.org/publications/fortifying-funding/)
 
 ## Coding task
 
